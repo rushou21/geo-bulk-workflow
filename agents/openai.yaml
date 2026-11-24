@@ -1,0 +1,3 @@
+interface:
+  display_name: "Bioinformatics Bulk Transcriptomics"
+  short_description: "Screen GEO cohorts and analyze bulk transcriptomics data"
